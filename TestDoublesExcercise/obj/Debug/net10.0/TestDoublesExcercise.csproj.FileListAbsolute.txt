@@ -1,0 +1,14 @@
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\bin\Debug\net10.0\TestDoublesExcercise.exe
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\bin\Debug\net10.0\TestDoublesExcercise.deps.json
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\bin\Debug\net10.0\TestDoublesExcercise.runtimeconfig.json
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\bin\Debug\net10.0\TestDoublesExcercise.dll
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\bin\Debug\net10.0\TestDoublesExcercise.pdb
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.AssemblyInfoInputs.cache
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.AssemblyInfo.cs
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.csproj.CoreCompileInputs.cache
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.dll
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\refint\TestDoublesExcercise.dll
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.pdb
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\TestDoublesExcercise.genruntimeconfig.cache
+C:\Users\yscho\Documents\_Lehre\GBSSG\LJ-3\TestDoublesExercise\TestDoublesExcercise\obj\Debug\net10.0\ref\TestDoublesExcercise.dll
